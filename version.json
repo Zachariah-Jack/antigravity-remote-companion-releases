@@ -7,11 +7,11 @@
     "notes": "Initial release baseline"
   },
   "windows_bridge": {
-    "version": "2.3.11",
+    "version": "2.4.0",
     "min_android_version_code": 18,
-    "installer_asset": "windows-bridge-v2.3.11.zip",
-    "sha256": "810f41a44d000a8411916eb2d40550d7157a7338584374a2554a84ae2a0b98fd",
-    "notes": "Added portable paths, SHA-256 verified GitHub Releases auto-updater, and private Tailscale secrets vault",
-    "download_url": "https://github.com/Zachariah-Jack/antigravity-remote-companion-releases/releases/download/bridge-v2.3.11/windows-bridge-v2.3.11.zip"
+    "installer_asset": "windows-bridge-v2.4.0.zip",
+    "sha256": "408b25bc8184bac5cfa973a9b682dcc6a577bc108ca6a57ee0195fc6272c3cb5",
+    "notes": "v2.4.0: Live 20-25 FPS WebSocket desktop streaming (/ws/desktop), Silent Office Mode, improved Whisper transcript accuracy, 1-tap pairing link, and bundled AI Secret-Vault skill",
+    "download_url": "https://github.com/Zachariah-Jack/antigravity-remote-companion-releases/releases/download/bridge-v2.4.0/windows-bridge-v2.4.0.zip"
   }
 }
