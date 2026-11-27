@@ -1,0 +1,16 @@
+{
+  "app_name": "Remote Companion for Antigravity",
+  "android": {
+    "version_code": 19,
+    "version_name": "2.3.10",
+    "channel": "google-play",
+    "notes": "Initial release baseline"
+  },
+  "windows_bridge": {
+    "version": "2.3.10",
+    "min_android_version_code": 18,
+    "installer_asset": "",
+    "sha256": "",
+    "notes": "Windows PC Bridge installer pipeline initialized"
+  }
+}
