@@ -7,11 +7,11 @@
     "notes": "v2.4.0: Header version badge, 20-25 FPS WebSocket desktop streaming, Hand Grabber Pan toggle, 1-tap Desktop keyboard, Silent Office Mode, Color Theme switcher, Help & Gestures Guide, Pinch-to-Zoom Image/PDF viewers, 1-tap pairing, and transcript polish"
   },
   "windows_bridge": {
-    "version": "2.4.1",
+    "version": "2.4.2",
     "min_android_version_code": 18,
-    "installer_asset": "windows-bridge-v2.4.1.zip",
-    "sha256": "e0a23cd6cc97c7af4b1708d078eff6ff6b328f9e89b642e982becb93ecb2de6d",
-    "notes": "v2.4.1: Continuous unclipped voice STT with 320ms pre-roll + 380ms mic gate hangover, 24s utterance window, and content-aware fallback deduplication so spoken words never disappear",
-    "download_url": "https://github.com/Zachariah-Jack/antigravity-remote-companion-releases/releases/download/bridge-v2.4.1/windows-bridge-v2.4.1.zip"
+    "installer_asset": "windows-bridge-v2.4.2.zip",
+    "sha256": "adb2c9a5c86861f46b7da78f32363cd95d9578e8777135f7705e162f10b508cf",
+    "notes": "Native 1:1 ultrawide & dual-monitor desktop resolution (2560x1080 / 5120x1080) with 4:4:4 chroma text sharpness + continuous unclipped voice transcription",
+    "download_url": "https://github.com/Zachariah-Jack/antigravity-remote-companion-releases/releases/download/bridge-v2.4.2/windows-bridge-v2.4.2.zip"
   }
 }
