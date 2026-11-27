@@ -1,10 +1,10 @@
 {
   "app_name": "Remote Companion for Antigravity",
   "android": {
-    "version_code": 23,
-    "version_name": "2.4.0",
+    "version_code": 24,
+    "version_name": "2.4.1",
     "channel": "google-play",
-    "notes": "v2.4.0: Header version badge, 20-25 FPS WebSocket desktop streaming, Hand Grabber Pan toggle, 1-tap Desktop keyboard, Silent Office Mode, Color Theme switcher, Help & Gestures Guide, Pinch-to-Zoom Image/PDF viewers, 1-tap pairing, and transcript polish"
+    "notes": "v2.4.1: Non-overlapping 2-row Work Desktop header with 1-tap collapse, native 1:1 ultrawide desktop streaming, portrait/landscape/180-deg rotation state preservation, Follow System Auto + Manual Light/Dark/AMOLED/Emerald themes with full Light Mode readability, UI polish, and unclipped voice transcripts"
   },
   "windows_bridge": {
     "version": "2.4.2",
