@@ -1,10 +1,10 @@
 {
   "app_name": "Remote Companion for Antigravity",
   "android": {
-    "version_code": 25,
-    "version_name": "2.5.0",
+    "version_code": 26,
+    "version_name": "2.5.1",
     "channel": "google-play",
-    "notes": "v2.5.0 Native Experience Parity: Live agent focus/steps checklist & Stop button, inline Question/Plan Proceed actions, collapsible Thinking & Tool cards, horizontally-scrollable Copyable Code Blocks, / Slash Commands, Voice-to-Text dictation, Camera attach with thumbnail previews, Drawer Search + Starred/Archived filters + Move to Project, unread finished badges, 0ms cached thread switching, and live animated Voice Waveform"
+    "notes": "v2.5.1: Auto-dismiss keyboard when opening/closing the slide-out menu drawer or tapping Voice + all v2.5.0 native experience features"
   },
   "windows_bridge": {
     "version": "2.5.2",
