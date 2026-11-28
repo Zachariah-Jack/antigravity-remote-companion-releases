@@ -1,10 +1,10 @@
 {
   "app_name": "Remote Companion for Antigravity",
   "android": {
-    "version_code": 24,
-    "version_name": "2.4.1",
+    "version_code": 25,
+    "version_name": "2.5.0",
     "channel": "google-play",
-    "notes": "v2.4.1: Non-overlapping 2-row Work Desktop header with 1-tap collapse, native 1:1 ultrawide desktop streaming, portrait/landscape/180-deg rotation state preservation, Follow System Auto + Manual Light/Dark/AMOLED/Emerald themes with full Light Mode readability, UI polish, and unclipped voice transcripts"
+    "notes": "v2.5.0 Native Experience Parity: Live agent focus/steps checklist & Stop button, inline Question/Plan Proceed actions, collapsible Thinking & Tool cards, horizontally-scrollable Copyable Code Blocks, / Slash Commands, Voice-to-Text dictation, Camera attach with thumbnail previews, Drawer Search + Starred/Archived filters + Move to Project, unread finished badges, 0ms cached thread switching, and live animated Voice Waveform"
   },
   "windows_bridge": {
     "version": "2.5.0",
