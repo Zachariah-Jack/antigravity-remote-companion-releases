@@ -7,11 +7,11 @@
     "notes": "v2.5.0 Native Experience Parity: Live agent focus/steps checklist & Stop button, inline Question/Plan Proceed actions, collapsible Thinking & Tool cards, horizontally-scrollable Copyable Code Blocks, / Slash Commands, Voice-to-Text dictation, Camera attach with thumbnail previews, Drawer Search + Starred/Archived filters + Move to Project, unread finished badges, 0ms cached thread switching, and live animated Voice Waveform"
   },
   "windows_bridge": {
-    "version": "2.5.1",
+    "version": "2.5.2",
     "min_android_version_code": 18,
-    "installer_asset": "windows-bridge-v2.5.1.zip",
-    "sha256": "24517142311553c3293193f49f91cc84f7fbc4cd03509cdf3dba214076170f49",
-    "notes": "Automatic live Desktop-to-Mobile project discovery and linking (fixes Pelican Quill project sync) + Mobile project thread assignment persistence",
-    "download_url": "https://github.com/Zachariah-Jack/antigravity-remote-companion-releases/releases/download/bridge-v2.5.1/windows-bridge-v2.5.1.zip"
+    "installer_asset": "windows-bridge-v2.5.2.zip",
+    "sha256": "f6ff330c0623c597a4dae74e1b6b78f042b4aec6af690c9778498fe7c7257e70",
+    "notes": "Block Whisper silence hallucinations (zeoranger/subs credits) via no_speech_prob, logprob, tighter silence gate, and regex filters",
+    "download_url": "https://github.com/Zachariah-Jack/antigravity-remote-companion-releases/releases/download/bridge-v2.5.2/windows-bridge-v2.5.2.zip"
   }
 }
