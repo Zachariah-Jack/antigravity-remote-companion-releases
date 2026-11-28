@@ -7,11 +7,11 @@
     "notes": "v2.4.1: Non-overlapping 2-row Work Desktop header with 1-tap collapse, native 1:1 ultrawide desktop streaming, portrait/landscape/180-deg rotation state preservation, Follow System Auto + Manual Light/Dark/AMOLED/Emerald themes with full Light Mode readability, UI polish, and unclipped voice transcripts"
   },
   "windows_bridge": {
-    "version": "2.4.2",
+    "version": "2.5.0",
     "min_android_version_code": 18,
-    "installer_asset": "windows-bridge-v2.4.2.zip",
-    "sha256": "adb2c9a5c86861f46b7da78f32363cd95d9578e8777135f7705e162f10b508cf",
-    "notes": "Native 1:1 ultrawide & dual-monitor desktop resolution (2560x1080 / 5120x1080) with 4:4:4 chroma text sharpness + continuous unclipped voice transcription",
-    "download_url": "https://github.com/Zachariah-Jack/antigravity-remote-companion-releases/releases/download/bridge-v2.4.2/windows-bridge-v2.4.2.zip"
+    "installer_asset": "windows-bridge-v2.5.0.zip",
+    "sha256": "bbd2a155d8793387ad580362bce73a7bdfcd3f3ffdf3f78576c07c33f8332ead",
+    "notes": "v2.5.0 Native Parity: Live focus/steps/thinking/tool activity telemetry, Stop/Cancel & Proceed/Question actions, thread search, starred/archived filters, and move thread between projects",
+    "download_url": "https://github.com/Zachariah-Jack/antigravity-remote-companion-releases/releases/download/bridge-v2.5.0/windows-bridge-v2.5.0.zip"
   }
 }
